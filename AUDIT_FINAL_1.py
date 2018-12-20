@@ -13,7 +13,7 @@ import sys,ctypes,platform
 arg1 = r'C:\WINDOWS\system32\WindowsPowerShell\v1.0\powershell.exe'
 arg2 = '-ExecutionPolicy'
 arg3 = 'Unrestricted'
-arg4 = r'C:\Users\tasmiya.sana\Desktop\rdp2.ps1'  #set powershell script path
+arg4 = r'C:\Users\rdp2.ps1'  #set powershell script path
 
 def is_admin():
     try:
