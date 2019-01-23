@@ -1,7 +1,7 @@
 # Security-hardnening
 Project Tiltle: Windows Server Hardening Script
 
-Project Overview: Here we have created "audit_final.py". It is created to audit windows security in any windows system without affecting and updating any changes. Script achieve the audit reports in the file "audit_report.txt".
+Project Overview: Here we have created "audit_final_1.py". It is created to audit windows security in any windows system without affecting and updating any changes. Script achieve the audit reports in the file "audit_report.txt".
 
 Configuration instructions: You need to have windows OS in order to run this script successfully.
 
